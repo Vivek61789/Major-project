@@ -1,0 +1,14 @@
+{
+  "nonce_api": "http://localhost:5050/api/v1/generateNonce",
+  "authenticate_api": "http://localhost:5050/api/v1/authenticate",
+  "reroute_api": "http://localhost:5050/api/v1/reroute",
+  "saveOrganizerDetails_api": "http://localhost:5050/api/v1/saveOrganizerDetails",
+  "getEventsByOrganizer":"http://localhost:5050/api/v1/getEventDetailsByOrganizer",
+  "saveEventDetailsByOrganizer":"http://localhost:5050/api/v1/saveEventDetailsByOrganizer",
+  "updateEventByOrganizer":"http://localhost:5050/api/v1/updateEventByOrganizer",
+  "new_factory_contract":"0x1Fd3466ADA06e1B81D339241Cc08CFC8727Ab365",
+  "old1_factory_contract":"0x88fFC7d4adB6725dd88cE8DE4B7455500210d428",
+  "old2_factory_contract":"0x2C4a26A60B80F67A3618eC2aE6a3384c7a369830",
+  "factory_contract":"0xAde9E20e7c4de99373aCa71E15ea8F2Dd28A3272",
+  "PINATA_JWT":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySW5mb3JtYXRpb24iOnsiaWQiOiI4OTNkYWNjYi1hZGFmLTQ2YzEtOWZmYi1kYmZiZGE5ZWU5NjMiLCJlbWFpbCI6ImdhbmVzaC5zaGFnYW50aTE1MUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwicGluX3BvbGljeSI6eyJyZWdpb25zIjpbeyJkZXNpcmVkUmVwbGljYXRpb25Db3VudCI6MSwiaWQiOiJGUkExIn0seyJkZXNpcmVkUmVwbGljYXRpb25Db3VudCI6MSwiaWQiOiJOWUMxIn1dLCJ2ZXJzaW9uIjoxfSwibWZhX2VuYWJsZWQiOmZhbHNlLCJzdGF0dXMiOiJBQ1RJVkUifSwiYXV0aGVudGljYXRpb25UeXBlIjoic2NvcGVkS2V5Iiwic2NvcGVkS2V5S2V5IjoiMWQyZmYyMzJjOThhMTRjMjIzMDEiLCJzY29wZWRLZXlTZWNyZXQiOiJkMGNmZTUzNWNjYWJhN2QwYWQ3MGM0NDZjNDExZWNlMTk1MTlmZGQwOTZiZDI0YjVkZjRmMThhOTA2ZGVjNDdhIiwiZXhwIjoxNzU1NTMwNDM1fQ.cwAI7TLYIdDuIPZSuWP28hrx6sn6zzauapJgjdrmA5M"
+}
